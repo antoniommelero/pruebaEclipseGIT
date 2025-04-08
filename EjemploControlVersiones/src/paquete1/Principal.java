@@ -3,7 +3,9 @@ package paquete1;
 public class Principal {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("Probando control de versiones con GIT");
+		System.out.println("Primera modificación de código");
+
 
 	}
 
